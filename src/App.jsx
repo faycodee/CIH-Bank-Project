@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <>
-      <p className="text-r"> Web site </p>
+      <p className="text-reed"> Web site </p>
     </>
   );
 };
